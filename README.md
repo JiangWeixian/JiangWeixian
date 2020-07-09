@@ -10,7 +10,7 @@
 
 Hi 👋, This **Jiangweixian** from china, base in Hangzhou
 
-- 👷 I'm looking for a new job
-- 🎫 I'm a front-end engineer
+- 👷 looking for a new job
+- 🎫 a front-end engineer
 - 📫 find me on...
   - 🅙 [Jike:Jiangweixian](https://web.okjike.com/u/94487aff-9d78-4e82-bd8a-179260283ce4)
