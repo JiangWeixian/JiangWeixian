@@ -1,4 +1,4 @@
-<img src="https://year-progress.jiangweixian1994.vercel.app/api/year?label=🅡🅔🅐🅓 🅑🅞🅞🅚🅢" />
+<a href="https://github.com/JiangWeixian/year-progress"><img src="https://year-progress.jiangweixian1994.vercel.app/api/year?label=🅡🅔🅐🅓 🅑🅞🅞🅚🅢" /></a>
 
 
 Hi 👋, This is **Jiangweixian** from china, base in Hangzhou
